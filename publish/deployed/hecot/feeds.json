@@ -1,0 +1,5 @@
+{
+	"BADI": {"asset": "BADI", "feed": "0x616d4717297d37667b026c01a10d6b53ef251133", "t": "swap"},
+	"ETH": {"asset": "ETH", "feed": "0x0", "t": "chainlink"},
+	"BTC": {"asset": "BTC", "feed": "0x0", "t": "chainlink"}
+}

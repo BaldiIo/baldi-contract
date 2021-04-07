@@ -1,0 +1,27 @@
+[
+  {
+    "name": "sUSDmdex",
+    "stakingToken": "0x6e8db55036fa3429e1b881ff510407a377cd3204",
+    "rewardsToken": "Synthetix"
+  },
+  {
+    "name": "iETH",
+    "stakingToken": "ProxyiETH",
+    "rewardsToken": "Synthetix"
+  },
+  {
+    "name": "iBTC",
+    "stakingToken": "ProxyiBTC",
+    "rewardsToken": "Synthetix"
+  },
+  {
+    "name": "sETH",
+    "stakingToken": "ProxysETH",
+    "rewardsToken": "Synthetix"
+  },
+  {
+    "name": "sBTC",
+    "stakingToken": "ProxysBTC",
+    "rewardsToken": "Synthetix"
+  }
+]

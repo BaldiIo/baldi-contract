@@ -1,0 +1,35 @@
+[
+	{
+		"name": "sUSD",
+		"asset": "USD"
+	},
+	{
+		"name": "sBTC",
+		"asset": "BTC"
+	},
+	{
+		"name": "sETH",
+		"asset": "ETH"
+	},
+	{
+		"name": "iBTC",
+		"asset": "BTC",
+		"inverted": {
+			"entryPoint": 50000,
+			"upperLimit": 70000,
+			"lowerLimit": 30000
+		},
+		"subclass": "PurgeableSynth"
+	},
+	{
+		"name": "iETH",
+		"asset": "ETH",
+		"inverted": {
+			"entryPoint": 1800.61,
+			"upperLimit": 3152.82,
+			"lowerLimit": 950.46
+		},
+		"subclass": "PurgeableSynth"
+	}
+]
+
